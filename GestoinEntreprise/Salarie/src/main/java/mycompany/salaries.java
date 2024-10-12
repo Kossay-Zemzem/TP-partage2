@@ -14,6 +14,7 @@ public class salaries {
         tableau.afficherSalarie();
         for (Salarie sal:tableau.getSalaries()) System.out.println(sal.calculePaye());
         System.out.println(tableau.totalPayer());
+        //bonjour
     }
 }
 
